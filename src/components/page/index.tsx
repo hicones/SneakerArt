@@ -20,7 +20,7 @@ const Home = () => {
       <div className="w-full flex flex-col p-8 items-center">
         <h2 className="text-[2rem] font-semibold text-dark-10">Destaques</h2>
         <p className="font-medium text-dark-20 text-xl text-center">
-          Frete grátis e brinde é aqui, aproveite por tempo limitado.
+          Adicione novos Sneakers a sua coleção e compartilhe com seus amigos.
         </p>
       </div>
 
