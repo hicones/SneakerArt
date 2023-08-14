@@ -9,10 +9,10 @@ const Home = () => {
     <>
       <div className="w-full h-[24rem] mb-8 hero-bg flex flex-col justify-center md:px-16 px-8 gap-8">
         <h3 className="text-dark-40 text-5xl font-semibold">
-          O melhor outlet de Sneakers
+          A melhor galeria de Sneakers
         </h3>
         <p className="text-dark-40 text-2xl font-medium max-w-xl">
-          Compre Sneakers autênticos. Os tênis Sneaker passaram de tendência
+          Conheça Sneakers autênticos. Os tênis Sneaker passaram de tendência
           para expressão cultural.
         </p>
       </div>
