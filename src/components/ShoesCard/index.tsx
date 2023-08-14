@@ -19,7 +19,7 @@ const ShoesCard = ({ shoes, onClick }: Props) => {
     <Dialog.Root>
       <Dialog.Trigger asChild>
         <div
-          className="w-full flex p-2 h-60 rounded bg-dark-30 cursor-pointer hover:brightness-90 transition items-center"
+          className="w-full flex p-2 h-60 rounded overflow-hidden bg-dark-30 cursor-pointer hover:brightness-90 transition items-center"
           onClick={onClick}
         >
           <img
