@@ -50,7 +50,7 @@ const AddShoesModal = () => {
         />
         <Dialog.Content className="data-[state=open]:animate-contentShow fixed top-1/2 left-1/2 h-auto w-full lg:max-w-[70vw] xl:max-w-[40vw] translate-x-[-50%] translate-y-[-50%] rounded-md bg-white p-7">
           <h2 className="font-semibold text-2xl text-dark-10">
-            Adicionar Snicker
+            Adicionar Sneaker
           </h2>
           <form
             onSubmit={handleSubmit(onSubmit)}

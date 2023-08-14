@@ -24,7 +24,7 @@ div.hero-bg {
   width: 100%;
   min-height: 500px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("/wallpaper.jpeg");
+    url("/wallpaper2.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
