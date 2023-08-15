@@ -19,6 +19,7 @@ const AddShoesModal = () => {
     setValue,
     handleSubmit,
     clearErrors,
+    reset,
     formState: { errors },
   } = useForm<AddShoes>({
     resolver: yupResolver(addShoesSchema),
@@ -26,6 +27,7 @@ const AddShoesModal = () => {
 
   const closeModal = () => {
     clearErrors();
+    reset();
     setOpen(false);
   };
 
